@@ -6,4 +6,4 @@ a =     2;
 и = "фыва';"
 
 something n;
-
+another one;
